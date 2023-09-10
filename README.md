@@ -1,1 +1,1 @@
-# PruebaFront hola mundo, maldito mundo
+# PruebaFront hola mundo
